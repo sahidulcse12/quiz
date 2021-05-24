@@ -1,5 +1,5 @@
 const quizData = [{
-        question: "What is the most used programming language in 2019?",
+        question: "What is the most used programming language in 2020?",
         a: "Java",
         b: "C",
         c: "Python",
